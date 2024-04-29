@@ -43,9 +43,9 @@
 修改代码中的配置文件，写你的用户名和密码就ok了
 ![](https://cwrisingblog.oss-cn-beijing.aliyuncs.com/blog/20240429163216.png)
 
-转到Login文件下面，右键运行就行了。
-![](https://cwrisingblog.oss-cn-beijing.aliyuncs.com/blog/20240429163339.png)
 
+![](https://cwrisingblog.oss-cn-beijing.aliyuncs.com/blog/20240429163339.png)
+转到Login文件下面，右键运行就行了，点击上面的绿色三角按钮也行。
 
 ## 编码：
 GBK
@@ -55,8 +55,12 @@ jdk1.8+MySQL8.0
 
 ## 推荐用IDEA运行项目
 
+## 未来计划
 
+以后不一定会完善，看我心情吧。🤣🤣🤣🤣
 
+## 赞助
 
+![](https://cwrisingblog.oss-cn-beijing.aliyuncs.com/blog/7ab6872f10d5c2bf084702294f8b9ce.jpg)
 
 
