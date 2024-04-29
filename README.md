@@ -33,17 +33,24 @@
 虽然简陋吧，差不多得了。
 
 ## 如何运行
+### 导入数据库
 数据库，需要Mysql8.0哦，然后运行bm.sql文件就行了，然后运行项目就行了。
 
-该项目有个pom文件，需要导入依赖，然后运行项目就行了。
+### 打开文件
+解压完之后，鼠标右键。
+![](https://cwrisingblog.oss-cn-beijing.aliyuncs.com/blog/20240429165531.png)
 
-如何导入依赖？点击这个按钮进行刷新即可。
+### 导入依赖
+该项目有个pom文件，需要导入依赖，然后运行项目就行了。
+双击pom.xml文件，然后点击右上角的刷新按钮，就可以导入依赖了。
+如何导入依赖？你找到M图标，点击它，刷新按钮就会出来，点击这个按钮进行刷新即可。
 ![](https://cwrisingblog.oss-cn-beijing.aliyuncs.com/blog/20240429163108.png)
 
+### 修改数据库配置文件
 修改代码中的配置文件，写你的用户名和密码就ok了
 ![](https://cwrisingblog.oss-cn-beijing.aliyuncs.com/blog/20240429163216.png)
 
-
+### 运行代码
 ![](https://cwrisingblog.oss-cn-beijing.aliyuncs.com/blog/20240429163339.png)
 转到Login文件下面，右键运行就行了，点击上面的绿色三角按钮也行。
 
